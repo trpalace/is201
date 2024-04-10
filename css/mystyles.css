@@ -1,0 +1,16 @@
+body{
+    font-family: 'Comic Sans MS'
+}
+.site-heading-lower {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.mb-3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(187, 141, 205) !important;
+}
+.notyellow {
+    color: rgb(0, 0, 0) !important;
+}
+.intro-text {
+    box-shadow: 15px 15px 20px rgba(0, 0,0, 0.5);
+}
